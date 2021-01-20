@@ -1,8 +1,5 @@
 # ScreenBright
  
-Automatic Screen Brightness adjustment.
-test1
-Created for Coding all fff nighters
-dummy test2
+Automatic Screen Brightness adjustment. 
+Created for Coding all nighters
  
- dd d d 
