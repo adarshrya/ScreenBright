@@ -1,6 +1,6 @@
 # ScreenBright
  
 Automatic Screen Brightness adjustment. 
-
-Created for Coding all nighters
  
+Created fo r Coding all nighters
+  
